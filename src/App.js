@@ -10,7 +10,7 @@ function App(props) {
           <Cards
             bgcolor="#8272DA"
             ttitle="24°"
-            sub="Chennai"
+            sub="Rainy"
           />
           <Cards
             bgcolor="#FD6663"
